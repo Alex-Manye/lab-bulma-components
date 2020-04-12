@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import CoolButton from './CoolButton';
+import 'bulma/css/bulma.css';
 
 class Navbar extends Component {
  render() {
